@@ -1,0 +1,49 @@
+.b{
+    color: Lime;
+    background-color: #696969;
+    text-decoration: none;
+    border:1px solid #ccc;
+    border: none;
+    width: 200px;
+    height: 30px;
+    display: inline-block;
+    font-size: 16px;
+    border: 2px solid #4CAF50;
+}
+.b:hover{
+    color:lime;
+    background-color: white;
+}
+.aa{
+    text-decoration: none;
+    color: lime;
+    
+}
+table{
+    width: 600px;
+    border: 3px solid red;
+    margin-top: 50px;
+}
+td{
+padding: 50px;
+border: 3px solid red;
+font-size: 25px;
+}
+th{
+padding: 50px;
+border: 3px solid red;
+font-size: 25px;
+}
+.td{
+    text-decoration: none;  
+    color: black;
+    display: inline-block;
+}
+
+
+
+
+
+
+
+
