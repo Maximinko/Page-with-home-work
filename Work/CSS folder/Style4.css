@@ -1,0 +1,54 @@
+.flex{
+    display: flex;
+    border:3px solid black;
+    height: 500px;
+    top: 200px;
+    align-items: center;
+    justify-content:space-around;
+    background-color: chartreuse;
+    border-radius: 70px;
+}   
+.flex1{
+    width: 300px;
+    height: 300px;
+    border-radius: 30px;
+    background-color: #808080;
+    border:3px solid black;
+}
+.flex2{
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    border-radius: 30px;
+    border:3px solid black;
+}
+.flex3{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    border-radius: 30px;
+    border:3px solid black;
+}
+.flex4{
+    width: 300px;
+    height: 300px;
+    background-color: pink;
+    border-radius: 30px;
+    border:3px solid black;
+}
+img{
+    width: 300px;
+    height: 200px;
+    border-radius: 30px;
+}
+.png{
+    top: 60px;
+    right: -30px;
+    position: relative;
+}
+.png2{
+    transform: scale(-1, 1);
+    position: relative;
+    top: 100px;
+
+}

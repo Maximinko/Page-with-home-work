@@ -1,0 +1,83 @@
+h1{
+    color:red;
+}
+h1{
+	margin: 300spx ;	
+}
+.nn{
+	color:red;
+}
+ul{
+	color:#000000;
+}
+.p{
+	color:#000000;
+}
+.module1 {
+  max-width: 300px;
+  padding: 1rem;
+  position: relative;
+  background: linear-gradient(to right, red, blue );
+  padding: 3px;
+}
+
+.module2{
+ background:#696969; 
+  color: white;
+  padding: 2rem;
+}
+
+.b1 {
+  max-width: 250px;
+  padding: 1rem;
+  position: relative;
+  background: linear-gradient(to right, red, blue );
+  padding: 3px;
+}
+
+.b2 {
+  background: #696969;
+  color: black ;
+  padding: 2rem;
+}
+
+.v1 {
+  max-width: 250px;
+  padding: 1rem;
+  position: relative;
+  background: linear-gradient(to right, red, blue );
+  padding: 3px;
+    position: absolute;
+    top: 139%;
+    left: 40%;
+    margin: -15% 0 0 -25%;
+}
+
+.v2 {
+  background: #696969;
+  color: black ;
+  padding: 2rem;
+}
+
+.l1 {
+  max-width:  250px;
+  max-height: 800px;
+  padding: 1rem;
+  position: relative;
+  background: linear-gradient(to right, red, blue );
+  padding: 3px;
+    position: absolute;
+    top: 139%;
+    left: 54%;
+    margin: -15% 0 0 -25%;
+}
+.l2 {
+  background:#696969;
+  color: black ;
+  padding: 1rem;
+}
+a{
+  text-decoration: none;
+  color: red;
+  font-size: 25px;
+}
