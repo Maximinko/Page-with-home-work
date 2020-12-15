@@ -1,0 +1,31 @@
+a{
+    text-decoration: none;  
+}
+button{
+    border: none;
+    background-color: lime;
+    width: 150px;
+    height: 40px;
+}
+.menu{
+    position: relative;
+    display: inline-block;
+}
+.content{
+    display: none;
+    position: absolute;
+    z-index: 1;
+}
+.menu:hover .content{
+    display: block;
+}
+.line{
+  display: block; 
+  margin-bottom: 10px;
+  width: 150px;
+  height: 40px; 
+  background-color: limegreen;
+  top: 7px;
+  position: relative;
+}
+

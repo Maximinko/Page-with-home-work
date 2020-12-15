@@ -1,0 +1,27 @@
+.div1{
+display: flex;
+}
+.div2{
+    width: 500px;
+    height: 300px;
+    margin-right: 15px;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+}
+.div3{
+    width: 280px;
+    height: 105px;
+    border: 2px solid red;
+    margin: 20px;
+}
+@media screen and (max-width:700px) {
+    .div1{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    .div2{
+        width: 350px;
+        height: 150px;
+    }
+}

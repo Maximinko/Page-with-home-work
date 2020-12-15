@@ -1,0 +1,31 @@
+ul{
+    list-style: none;
+}
+.li1{
+    float: left;
+    position: relative;
+    width: 220px;
+    border: 1PX solid red;
+}
+a{
+    display: block;
+    text-decoration: none;
+    text-align: center;
+    background-color: wheat;
+    padding: 8px;
+    color: black;
+}
+.down{
+    position: absolute;
+    display: none;
+    
+}
+.nav li:hover .down{
+    display: block;
+}
+.li2{
+    background-color: teal;
+    width: 205px;
+    border: 1px solid red;
+    transform: translateX(-40px);
+}

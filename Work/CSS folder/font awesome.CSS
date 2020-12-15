@@ -1,0 +1,33 @@
+.fa-camera{
+    color: red;
+}
+a{
+    text-decoration: none;
+    color:  red;
+}
+button{
+    background-color: wheat;
+    border: 1px outset red ;
+    border-radius: 20px;
+    height: 40px;
+    width: 200px;
+    margin-top: 30px;
+}
+.a1:hover::after{
+    content: "Discord--->";
+}
+.a2:hover::after{
+    content: "Telegram--->";
+}
+.a3:hover::after{
+    content: "Viber--->";
+}
+div{
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    top: -0px;
+}
+.a4:hover::after{
+    content: "Instagram--->";
+}

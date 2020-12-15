@@ -1,0 +1,51 @@
+form{
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    border: 1px solid gray;
+    height: 500px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 3px;
+}
+.inp1{
+    width: 90px;
+}
+.div1{
+    display: flex;
+}
+.inp2{
+    width: 198px;
+}
+.div2{
+    display: flex;
+    justify-content: space-around;
+}
+a{
+    text-decoration: none;
+    color: blue;
+}
+.inp3{
+    background-color: blue;
+    color: white;
+    border-radius: 3px;
+    border: none;
+    height: 50px;
+    width: 100px;
+}
+p,input,a{
+  position: relative;
+  left: 20px;
+}
+.p1{
+    font-size: 14px;
+    color: gray;
+}
+.p2{
+    font-size: 25px;
+}
+a:visited{
+    color: red;
+}
